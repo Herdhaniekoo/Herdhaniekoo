@@ -1,7 +1,5 @@
 # Hallo sedulur, I'm Herdhanieko 👋
 
-- 🌱 Coding for me is a pleasure
-- 👯 Me and errors in the code are friends
 - ⚡ Sleep, Code, Sleep, Code.
 
 ### Connect with me:
